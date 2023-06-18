@@ -1,0 +1,2 @@
+# NFTmintBot
+NFT Minting Bot
